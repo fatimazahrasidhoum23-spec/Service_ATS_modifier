@@ -1,0 +1,26 @@
+# Environnement Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Données générées
+/chroma_data/
+eval/chroma_data/
+/data/
+eval/resultats_*.csv
+
+# CV = données personnelles, jamais sur GitHub
+eval/data/*.pdf
+eval/data/*.docx
+eval/data/cvs/
+eval/data/classement_humain.csv
+
+# IDE / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

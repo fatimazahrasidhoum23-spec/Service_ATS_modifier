@@ -1,0 +1,14 @@
+Stage PFE — Ingénieur IA / Développeur Python (6 mois)
+
+Nous recherchons un(e) élève ingénieur(e) pour développer des services d'IA intégrés à notre plateforme.
+
+Missions :
+- Concevoir des modèles de Machine Learning et de Deep Learning (classification, NLP)
+- Intégrer des LLM avec RAG dans des API FastAPI
+- Conteneuriser et déployer les services avec Docker
+
+Compétences requises : Python, Machine Learning, Deep Learning, PyTorch ou TensorFlow, FastAPI, Docker, Git
+Souhaité : LLM, RAG, bases vectorielles, AWS
+Formation : Bac+5 en informatique ou IA (fin d'études)
+Expérience : 0 à 1 an (stages acceptés)
+Soft skills : autonomie, esprit d'analyse, travail en équipe
